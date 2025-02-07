@@ -1,0 +1,132 @@
+{
+    "workbench.colorTheme": "Cyberpunk 2021",
+    "workbench.colorCustomizations": {
+      "activityBar.foreground": "#FF00FF",
+      "activityBar.inactiveForeground": "#FF00FF70",
+      "activityBarBadge.background": "#FF00FF",
+      "activityBar.activeBorder": "#FF00FF",
+      "breadcrumb.focusForeground": "#FF00FF",
+      "sideBar.foreground": "#d15ad1",
+      "tab.activeBorderTop": "#FF00FF",
+      "tab.activeForeground": "#FF00FF",
+      "tab.hoverForeground": "#FF00FF",
+      "panel.border": "#FF00FF",
+      "panelTitle.activeForeground": "#FF00FF",
+      "panelTitle.activeBorder": "#FF00FF",
+      "terminalCursor.foreground": "#FF00FF",
+      "terminal.findMatchBorder": "#FF00FF",
+      "terminalOverviewRuler.border": "#FF00FF30",
+      "editorGroup.border": "#FF00FF",
+      "keybindingLabel.border": "#FF00FF",
+      "notifications.border": "#FF00FF",
+      "notifications.foreground": "#FF00FF",
+      "editorCursor.foreground": "#FF00FF",
+      "editorBracketMatch.border": "#FF00FF",
+      "editor.wordHighlightBackground": "#FF00FF40",
+      "editor.findMatchHighlightBorder": "#FF00FF90",
+      "editor.findMatchBorder": "#FF00FF",
+      "searchEditor.findMatchBorder": "#FF00FF",
+      "editorLineNumber.activeForeground": "#FF00FF",
+      "editor.selectionHighlightBorder": "#FF00FF",
+      "editorOverviewRuler.background": "#FF00FF10",
+      "titleBar.inactiveForeground": "#FF00FF",
+      "sideBarTitle.foreground": "#FF00FF",
+      "gitDecoration.untrackedResourceForeground": "#AF79FC",
+      "widget.shadow": "#FF00FF",
+      "widget.border": "#FF00FF",
+      "editorSuggestWidget.border": "#FF00FF",
+      "editorSuggestWidget.focusHighlightForeground": "#FF00FF",
+      "editorSuggestWidget.highlightForeground": "#FF00FF",
+      "editorHoverWidget.border": "#FF00FF",
+      "editorHoverWidget.foreground": "#FF00FF",
+      "input.foreground": "#FF00FF",
+      "input.placeholderForeground": "#FF00FF40",
+      "input.border": "#FF00FF",
+      "extensionButton.foreground": "#FF00FF",
+      "button.foreground": "#FF00FF",
+      "quickInput.foreground": "#FF00FF",
+      "pickerGroup.border": "#FF00FF",
+      "badge.background": "#FF00FF",
+      "scrollbarSlider.hoverBackground": "#FF00FF50",
+      "sash.hoverBorder": "#FF00FF"
+    },
+    "editor.tokenColorCustomizations": {
+      "[Cyberpunk 2021]": {
+        "textMateRules": [
+          {
+            "scope": "variable",
+            "settings": {
+              "foreground": "#FFFFFF"
+            }
+          },
+          {
+            "scope": "comment",
+            "settings": {
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "scope": "keyword.control",
+            "settings": {
+              "foreground": "#00B0FF",
+              "fontStyle": ""
+            }
+          },
+          {
+            "scope": "string.quoted.double",
+            "settings": {
+              "foreground": "#00B0FF"
+            }
+          },
+          {
+            "scope": "storage.modifier",
+            "settings": {
+              "fontStyle": ""
+            }
+          },
+          {
+            "scope": "storage.type",
+            "settings": {
+              "fontStyle": ""
+            }
+          },
+          {
+            "scope": "keyword",
+            "settings": {
+              "fontStyle": ""
+            }
+          },
+          {
+            "scope": "entity.name.function",
+            "settings": {
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "scope": "string",
+            "settings": {
+              "foreground": "#C953D4"
+            }
+          },
+          {
+            "scope": "variable.parameter",
+            "settings": {
+              "foreground": "#CC5D9D"
+            }
+          },
+          {
+            "scope": "variable.other.property",
+            "settings": {
+              "foreground": "#FF00CC"
+            }
+          },
+          {
+            "scope": "constant.language",
+            "settings": {
+              "foreground": "#FF00CC"
+            }
+          }
+        ],
+      }
+    },
+}
