@@ -51,7 +51,8 @@
     "sash.hoverBorder": "#FF00FF",
     "minimap.selectionHighlight": "#FF00FF50",
     "scrollbarSlider.activeBackground": "#FF00FF",
-    "breadcrumb.activeSelectionForeground": "#FF00FF"
+    "breadcrumb.activeSelectionForeground": "#FF00FF",
+    "editorGroup.dropBackground": "#FF00FF30"
   },
   "editor.tokenColorCustomizations": {
     "[Cyberpunk 2021]": {
