@@ -49,7 +49,8 @@
     "badge.background": "#FF00FF",
     "scrollbarSlider.hoverBackground": "#FF00FF50",
     "sash.hoverBorder": "#FF00FF",
-    "minimap.selectionHighlight": "#FF00FF50"
+    "minimap.selectionHighlight": "#FF00FF50",
+    "scrollbarSlider.activeBackground": "#FF00FF"
   },
   "editor.tokenColorCustomizations": {
     "[Cyberpunk 2021]": {
