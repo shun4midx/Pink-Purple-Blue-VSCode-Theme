@@ -52,7 +52,16 @@
     "minimap.selectionHighlight": "#FF00FF50",
     "scrollbarSlider.activeBackground": "#FF00FF",
     "breadcrumb.activeSelectionForeground": "#FF00FF",
-    "editorGroup.dropBackground": "#FF00FF30"
+    "editorGroup.dropBackground": "#FF00FF30",
+    "minimapSlider.hoverBackground": "#FF00FF50",
+    "minimapSlider.activeBackground": "#FF00FF70",
+    "minimap.selectionOccurrenceHighlight": "#FF00FF50",
+    "minimap.findMatchHighlight": "#FF00FF50",
+    "minimap.infoHighlight": "#FF00FF50",
+    "errorForeground": "#FF00FF",
+    "notificationsErrorIcon.foreground": "#FF00FF",
+    "notificationToast.border": "#FF00FF",
+    "selection.background": "#FF00FF90"
   },
   "editor.tokenColorCustomizations": {
     "[Cyberpunk 2021]": {
