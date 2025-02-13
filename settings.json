@@ -61,7 +61,9 @@
     "errorForeground": "#FF00FF",
     "notificationsErrorIcon.foreground": "#FF00FF",
     "notificationToast.border": "#FF00FF",
-    "selection.background": "#FF00FF90"
+    "selection.background": "#FF00FF90",
+    "notificationsWarningIcon.foreground": "#FF00FF",
+    "notificationsInfoIcon.foreground": "#FF00FF"
   },
   "editor.tokenColorCustomizations": {
     "[Cyberpunk 2021]": {
