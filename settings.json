@@ -65,6 +65,7 @@
     "notificationsWarningIcon.foreground": "#FF00FF",
     "notificationsInfoIcon.foreground": "#FF00FF",
     "checkbox.foreground": "#FF00FF",
+    "checkbox.border": "#FF00FF",
     "settings.textInputBorder": "#FF00FF",
     "settings.dropdownListBorder": "#FF00FF",
     "settings.checkboxBorder": "#FF00FF",
