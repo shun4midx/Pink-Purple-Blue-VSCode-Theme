@@ -63,7 +63,14 @@
     "notificationToast.border": "#FF00FF",
     "selection.background": "#FF00FF90",
     "notificationsWarningIcon.foreground": "#FF00FF",
-    "notificationsInfoIcon.foreground": "#FF00FF"
+    "notificationsInfoIcon.foreground": "#FF00FF",
+    "checkbox.foreground": "#FF00FF",
+    "settings.textInputBorder": "#FF00FF",
+    "settings.dropdownListBorder": "#FF00FF",
+    "settings.checkboxBorder": "#FF00FF",
+    "settings.dropdownBorder": "#FF00FF",
+    "settings.numberInputBorder": "#FF00FF",
+    "terminal.selectionForeground": "#FF00FF"
   },
   "editor.tokenColorCustomizations": {
     "[Cyberpunk 2021]": {
