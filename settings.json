@@ -72,7 +72,11 @@
     "settings.dropdownBorder": "#FF00FF",
     "settings.numberInputBorder": "#FF00FF",
     "terminal.selectionForeground": "#FF00FF",
-    "progressBar.background": "#FF00FF"
+    "progressBar.background": "#FF00FF",
+    "settings.textInputForeground": "#FF00FF",
+    "settings.checkboxForeground": "#FF00FF",
+    "settings.dropdownForeground": "#FF00FF",
+    "settings.numberInputForeground": "#FF00FF"
   },
   "editor.tokenColorCustomizations": {
     "[Cyberpunk 2021]": {
