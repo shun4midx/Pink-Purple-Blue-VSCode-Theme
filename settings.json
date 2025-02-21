@@ -156,6 +156,12 @@
           "settings": {
             "foreground": "#FF00CC"
           }
+        },
+        {
+          "scope": "keyword.other",
+          "settings": {
+            "foreground": "#FF55FF"
+          }
         }
       ],
     }
