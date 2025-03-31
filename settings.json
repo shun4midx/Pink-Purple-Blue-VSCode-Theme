@@ -164,9 +164,62 @@
           }
         },
         {
-          "scope": "constant.character",
+          "scope": "source.python",
           "settings": {
-            "foreground": "#FF00CC"
+            "foreground": "#84B3E9"
+          }
+        },
+        {
+          "scope": "string.quoted.docstring.multi.python",
+          "settings": {
+            "foreground": "#5566C2"
+          }
+        },
+        {
+          "scope": "entity.other.inherited-class",
+          "settings": {
+            "foreground": "#CC5D9D"
+          }
+        },
+        {
+          "scope": "keyword.control.import",
+          "settings": {
+            "foreground": "#FF55FF"
+          }
+        },
+        {
+          "scope": "keyword.control.flow.python",
+          "settings": {
+            "foreground": "#00B0FF"
+          }
+        },
+        {
+          "scope": "variable.language",
+          "settings": {
+            "foreground": "#00B0FF"
+          }
+        },{
+          "scope": "variable.parameter",
+          "settings": {
+            "foreground": "#FF55FF"
+          }
+        },
+        {
+          "scope": "meta.function-call.arguments.python",
+          "settings": {
+            "foreground": "#FF55BE"
+          }
+        },
+        {
+          "scope": "entity.name.function.python",
+          "settings": {
+            "foreground": "#00B0FF"
+          }
+        },
+        {
+          "scope": "meta.function-call.generic.python",
+          "settings": {
+            "foreground": "#FF55FF"
           }
         }
       ],
