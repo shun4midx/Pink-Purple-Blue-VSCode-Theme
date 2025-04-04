@@ -140,12 +140,6 @@
           }
         },
         {
-          "scope": "variable.parameter",
-          "settings": {
-            "foreground": "#CC5D9D"
-          }
-        },
-        {
           "scope": "variable.other.property",
           "settings": {
             "foreground": "#FF00CC"
