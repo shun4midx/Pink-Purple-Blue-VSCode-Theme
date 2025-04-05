@@ -192,10 +192,17 @@
           "settings": {
             "foreground": "#00B0FF"
           }
-        },{
-          "scope": "variable.parameter",
+        },
+        {
+          "scope": "variable.parameter.python",
           "settings": {
             "foreground": "#FF55FF"
+          }
+        },
+        {
+          "scope": "variable.parameter",
+          "settings": {
+            "foreground": "#E65BB1"
           }
         },
         {
