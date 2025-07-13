@@ -1,0 +1,50 @@
+[
+  {
+    "color": "default",
+    "type": "snorlax",
+    "size": "small",
+    "name": "Snorlax",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "porygon2",
+    "size": "small",
+    "name": "Aster",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "psyduck",
+    "size": "small",
+    "name": "Duck",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "pichu",
+    "size": "small",
+    "name": "Pichu",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "nidoran_male",
+    "size": "small",
+    "name": "Sylveon",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "umbreon",
+    "size": "small",
+    "name": "Umbreon",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  }
+]
