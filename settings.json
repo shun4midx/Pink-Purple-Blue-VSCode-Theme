@@ -79,7 +79,11 @@
     "settings.numberInputForeground": "#FF00FF",
     "menu.border": "#FF00FF",
     "menu.background": "#270027",
-    "menu.selectionBorder": "#FF00FF"
+    "menu.selectionBorder": "#FF00FF",
+    "editorBracketHighlight.foreground1": "#3c5afe",
+    "editorBracketHighlight.foreground2": "#ae5ce5",
+    "editorBracketHighlight.foreground3": "#ff00ff",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
   },
   "editor.tokenColorCustomizations": {
     "[Cyberpunk 2021]": {
@@ -226,4 +230,7 @@
       ],
     }
   },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": true
 }
