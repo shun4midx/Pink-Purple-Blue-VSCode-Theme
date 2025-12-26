@@ -225,6 +225,30 @@
           "settings": {
             "foreground": "#FF55FF"
           }
+        },
+        {
+          "scope": "support.constant",
+          "settings": {
+            "foreground": "#E74EA2"
+          }
+        },
+        {
+          "scope": "keyword.other.unit.px.css",
+          "settings": {
+            "foreground": "#E74EA2"
+          }
+        },
+        {
+          "scope": "meta.property-value.css",
+          "settings": {
+            "foreground": "#E74EA2"
+          }
+        },
+        {
+          "scope": "constant.numeric.css",
+          "settings": {
+            "foreground": "#E74EA2"
+          }
         }
       ],
     }
