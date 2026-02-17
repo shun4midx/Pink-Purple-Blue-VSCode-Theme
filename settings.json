@@ -249,6 +249,18 @@
           "settings": {
             "foreground": "#E74EA2"
           }
+        },
+        {
+          "scope": "variable.other.object.ts",
+          "settings": {
+            "foreground": "#5A83F4"
+          }
+        },
+        {
+          "scope": "variable.object.property.ts",
+          "settings": {
+            "foreground": "#4282DC"
+          }
         }
       ],
     }
